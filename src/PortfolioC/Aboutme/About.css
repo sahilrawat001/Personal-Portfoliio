@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
+ 
+
+.bg-effect {
+    background-image: linear-gradient(
+      to right,
+      #ff512f 0%,
+    #dd2476 51%,
+    #ff512f 100%)
+}
+.heading {
+    margin-top: 2rem;
+    font-family: 'Playfair Display', serif;
+
+   text-align: center;
+   
+
+}
+.image{
+   width:100%;
+   height:100%;
+}
+.a{ 
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+ }
+.left {
+    margin-left: 2rem;
+    width: 35%;
+    border-style: none;
+ }
+.right {
+    margin-left: 4rem;
+    width: 60%;
+   
+    font-size: medium;
+    word-spacing: 18px;
+ 
+    font-family: 'Playfair Display', serif;
+    overflow:hidden;
+    
+     }

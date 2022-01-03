@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+.nav {
+    box-shadow: 5px 10px 8px #888888;
+    background-color: rgb(211, 238, 238);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    scroll-behavior: smooth;
+}
+.logo {
+    font-size: 3rem;
+    font-family: 'Pushster', cursive;
+}
+.container {
+     margin: 0 6rem 0 2rem ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nav_list {
+    display: flex;
+    flex-direction: row;
+    gap: 3;
+    gap: 5rem;
+}
+ul li {
+    list-style: none;
+    align-items: center;
+}
+ul li a  {
+         font-style: normal;
+        color: black;
+        font-weight: 500;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        display: block;
+        text-decoration: none;
+ 
+    }
+    ul li a:hover{
+        color: rgb(2, 131, 41);
+    }
+    .navbar {
+ }

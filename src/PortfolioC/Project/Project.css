@@ -1,0 +1,11 @@
+.head{
+    margin-top: 2rem;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(8, 7, 5);
+}
+.container_project {
+    height: 60vw;
+ 
+    background-color: aqua;
+}
