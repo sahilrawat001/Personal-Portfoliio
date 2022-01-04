@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import About from './PortfolioC/Aboutme/About';
+import Links from './PortfolioC/Fixedlinks/Links';
  import Intro from './PortfolioC/Intro/Intro';
 import Navbar from './PortfolioC/Navbar/Navbar';
 import Project from './PortfolioC/Project/Project';
@@ -9,6 +10,7 @@ import Project from './PortfolioC/Project/Project';
 ReactDOM.render(
   <React.StrictMode>
      <Navbar/>
+     <Links/>
      <Intro/>
      <About/>
      <Project/>

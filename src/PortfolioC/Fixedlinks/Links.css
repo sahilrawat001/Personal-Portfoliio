@@ -1,0 +1,29 @@
+.icons{
+  
+    height: 0%;
+    position: fixed;
+   margin: 0%;
+    top:20%;
+    left: 0px;
+    z-index: 100;
+}
+.iconsList{
+     margin-left: 0%;
+    padding-left: 0%;
+}
+.list-item {
+    cursor: pointer;
+    padding: 4px;
+     border: 2px solid rgb(0, 0, 0);
+     border-radius: 50%;
+     background-color: rgb(0, 0, 0);
+ } 
+ 
+.list-item:hover{
+   
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.26);
+    color: rgb(59, 59, 59);
+    transform: translateY(-6px);
+    transition:0.3s;
+  
+}
