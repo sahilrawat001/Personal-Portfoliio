@@ -20,13 +20,15 @@ const About=()=> {
         </div>
         <div className="right">
             <p>
+           <h3>Hi,I am Sahil Rawat</h3>
+An Web developer.
+ I'm currently pursuing an undergraduate in Computer Science.
+  During my studies, I have been acquiring work experience in various fields and lately,
+   I have been concentrating on software development on the Web Development platform. 
+  I'm learning React as a frontend ,mongoDB, nodejs for backend, Docker etc. For deployment i mostly used vercel or netlify.
+  Apart from the domain study I also loves to explore the history of the ancient and modern India.
 
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi aspernatur quod error, officia praesentium corporis autem. Rem velit minus nostrum illum aliquid, quae quia dolores esse, blanditiis veniam vero iste.
-        Illo doloremque consectetur perspiciatis accusantium quas perferendis, quaerat sequi rerum impedit. Labore, unde necessitatibus eligendi repellendus impedit, ducimus suscipit sapiente officia quo hic quasi tempora voluptatum alias dicta laborum consequatur.
-        Totam quidem labore, tempora quos eum omnis libero eius ab maiores ratione officia hic. Magnam adipisci quisquam atque. Unde exercitationem nemo atque hic? Culpa possimus expedita tempora autem nam beatae.
-        Cupiditate, aut molestiae! Voluptas iusto dicta provident nisi ex quos assumenda porro dolores tempora quisquam minus quia amet harum vel aut, culpa facilis a vitae voluptatem, earum reprehenderit dignissimos eaque?
-        Ipsum excepturi voluptatibus nisi. Maxime accusamus perspiciatis aliquid alias magni cumque consequatur incidunt numquam hic reprehenderit sunt esse dolores nisi ad, molestias officiis nostrum illum nesciunt accusantium! Accusantium, voluptates assumenda.
-            </p>
+           </p>
         </div>
          </div>
          </>
