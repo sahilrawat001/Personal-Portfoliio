@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import About from './PortfolioC/Aboutme/About';
 import Links from './PortfolioC/Fixedlinks/Links';
+import Footer from './PortfolioC/Footer/Footer';
  import Intro from './PortfolioC/Intro/Intro';
 import Navbar from './PortfolioC/Navbar/Navbar';
 import Project from './PortfolioC/Project/Project';
@@ -14,6 +15,7 @@ ReactDOM.render(
      <Intro/>
      <About/>
      <Project/>
+     <Footer/>
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -12,9 +12,9 @@ const Navbar =()=> {
                <div className="navbar">
                <ul className='nav_list'>
   <li><a href=" ">Home</a></li>
-  <li><a href=" ">News</a></li>
+  <li><a href="#about ">About</a></li>
+  <li><a href="#projects ">Projects</a></li>
   <li><a href=" ">Contact</a></li>
-  <li><a href=" ">About</a></li>
 </ul>
         </div>
                </div>

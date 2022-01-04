@@ -9,6 +9,7 @@
 }
 .logo {
     font-size: 3rem;
+    cursor: pointer;
     font-family: 'Pushster', cursive;
 }
 .container {

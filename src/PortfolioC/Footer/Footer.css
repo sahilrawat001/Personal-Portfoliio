@@ -1,0 +1,33 @@
+.footer{
+padding-top: 20px;
+    background-color: gray;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo2{
+    text-align: center;
+}
+.footerList{
+    background-color: rgb(5, 4, 4);
+    margin: 3px;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 4px;
+}
+.footericonsList{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
+.footericons{
+    align-items: center;
+    align-content: center;
+    left:50%;
+    right: 0%;
+    text-align: center;
+
+}

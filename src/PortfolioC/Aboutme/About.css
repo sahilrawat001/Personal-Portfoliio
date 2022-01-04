@@ -2,13 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
  
 
-.bg-effect {
-    background-image: linear-gradient(
-      to right,
-      #ff512f 0%,
-    #dd2476 51%,
-    #ff512f 100%)
-}
+ 
 .heading {
     margin-top: 2rem;
     font-family: 'Playfair Display', serif;
@@ -34,11 +28,10 @@
 .right {
     margin-left: 4rem;
     width: 60%;
-   
-    font-size: medium;
+   font-weight: 100;
+    font-size: 20px;
     word-spacing: 18px;
  
-    font-family: 'Playfair Display', serif;
     overflow:hidden;
     
      }
