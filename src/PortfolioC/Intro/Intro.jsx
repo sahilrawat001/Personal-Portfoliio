@@ -29,6 +29,14 @@ const Intro=()=>{
                     Fuga repellendus incidunt libero quia impedit quaerat quasi a deleniti atque veritatis reprehenderit, 
                     doloremque similique cupiditate, laboriosam eveniet illo fugit laudantium non?
                </div>
+               <div className="resume-button">
+                       <a href="https://drive.google.com/drive/u/0/folders/1hI0bB4-3q0bXlIE7xwjlTEzZYeC0DYUF" >
+                   <button>
+
+                       Resume
+                   </button>
+                       </a>
+               </div>
             </div>
              
 

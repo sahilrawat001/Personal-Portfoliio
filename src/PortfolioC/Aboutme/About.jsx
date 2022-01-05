@@ -26,7 +26,7 @@ An Web developer.
   During my studies, I have been acquiring work experience in various fields and lately,
    I have been concentrating on software development on the Web Development platform. 
   I'm learning React as a frontend ,mongoDB, nodejs for backend, Docker etc. For deployment i mostly used vercel or netlify.
-  Apart from the domain study I also loves to explore the history of the ancient and modern India.
+  Apart from the domain study I also loves to explore the history of the ancient and modern India. I likes to watch south indian movies.
 
            </p>
         </div>
