@@ -94,14 +94,12 @@ animation: move 10s ease-in-out infinite alternate  ;
 
 }
 
-
-
-
+ 
 
 
 
 button, button::after {
-    width: 380px;
+    width: 280px;
     height: 86px;
     cursor: pointer; 
     font-size: 36px;

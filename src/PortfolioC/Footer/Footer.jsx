@@ -6,7 +6,7 @@ import {BsFacebook ,BsInstagram ,BsLinkedin} from "react-icons/bs"
 import { FiMail}  from "react-icons/fi";
 
 import "./Footer.css";
-const Footer=()=> {
+ const Footer=()=> {
     return (
         <>
        <div className="footer">
@@ -28,6 +28,7 @@ const Footer=()=> {
                 <FaGithubAlt   /> 
                 </a>
                 </li>
+              
                 <li className='footerList'>
                 <a href='https://www.facebook.com/sahilrawat001'   rel="noreferrer"  target="_blank" >
 
