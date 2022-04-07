@@ -7,10 +7,10 @@ const About=()=> {
         <>
         <div id='about'>
 
+        </div>
         <h1 className='heading bg-effect'>
             ABOUT ME
         </h1>
-        </div>
         <div className='a bg-effect'>
  
         <div className="left">

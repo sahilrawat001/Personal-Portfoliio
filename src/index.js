@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import About from './PortfolioC/Aboutme/About';
+import Contact from './PortfolioC/Contactme/Contact';
 import Links from './PortfolioC/Fixedlinks/Links';
 import Footer from './PortfolioC/Footer/Footer';
  import Intro from './PortfolioC/Intro/Intro';
@@ -15,6 +16,7 @@ ReactDOM.render(
      <Intro/>
      <About/>
      <Project/>
+     <Contact/>
      <Footer/>
   </React.StrictMode>,
   document.getElementById('root')

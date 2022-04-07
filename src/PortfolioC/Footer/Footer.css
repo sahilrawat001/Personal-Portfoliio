@@ -44,3 +44,31 @@ padding-top: 20px;
   transition:0.3s;
 
 }
+.git:hover{
+    background-color: rgb(0, 0, 0);
+
+}
+.mail:hover{
+    background-color: rgb(211, 28, 28);
+
+}
+.insta:hover{
+    background-color: rgb(245, 10, 213);
+
+}
+.wtsp:hover{
+    background-color: rgb(5, 197, 31);
+
+}
+.link:hover{
+    background-color: rgb(24, 59, 255);
+
+}
+.tweet:hover{
+    background-color: rgb(9, 153, 197);
+
+}
+.fb:hover{
+    background-color: rgb(28, 149, 158);
+
+}

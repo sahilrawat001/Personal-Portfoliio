@@ -11,7 +11,7 @@ const Intro=()=>{
                 <h2 className="i-intro">
                     Hello, My name is 
                 </h2>
-               <h1 className="i-name">
+               <h1 className="i-name ">
                    Sahil Rawat
                </h1>
                <div className="i-title">
@@ -31,7 +31,7 @@ const Intro=()=>{
                </div>
                <div className="resume-button">
                        <a href="https://drive.google.com/drive/u/0/folders/1hI0bB4-3q0bXlIE7xwjlTEzZYeC0DYUF" className="resumeLink" >
-                   <button>
+                   <button className="blink">
 
                        Resume
                    </button>

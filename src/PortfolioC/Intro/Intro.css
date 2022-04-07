@@ -1,9 +1,8 @@
-
  
 
 .i{
     display: flex;
-    height: 100vh;
+    height: 92vh;
     flex-direction: row;
 }
 .i-left {
@@ -98,7 +97,7 @@ animation: move 10s ease-in-out infinite alternate  ;
 
 
 
-button, button::after {
+.blink, .blink::after {
     width: 280px;
     height: 86px;
     cursor: pointer; 
@@ -114,7 +113,7 @@ button, button::after {
     position: relative;
   }
   
-  button::after {  
+  .blink::after {  
     --slice-0: inset(50% 50% 50% 50%);
     --slice-1: inset(80% -6px 0 0);
     --slice-2: inset(50% -6px 30% 0);
@@ -134,7 +133,7 @@ button, button::after {
     clip-path: var(--slice-0);
   }
   
-  button:hover::after {
+  .blink:hover::after {
     animation: 1s glitch;
     animation-timing-function: steps(2, end);
   }
@@ -189,3 +188,5 @@ button, button::after {
       text-decoration: none;
       color: bisque;
   }
+
+  
